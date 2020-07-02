@@ -24,7 +24,7 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 > Após a instalação, você deverá navegar até o diretório contendo seus arquivos HTML e executar o comando:
 > **`live-server ./[nome-da-pasta ou arquivo html]`**
 
-## Screenshots de Referência
+## Screenshots do Projeto
 ### Versão Mobile:
 ![](https://codenation-challenges.s3-us-west-1.amazonaws.com/react-12/screenshot-aula-02-mobile.jpg)
 
