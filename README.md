@@ -6,6 +6,9 @@ Desenvolver uma versão **mobile first** do Instagram utilizando apenas **HTML5*
 > **Preview:**
 > [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public)
 
+> **Ver online:**
+> [Projeto do código](instagram-mobile-first.surge.sh)
+
 ## Tópicos:
 Neste desafio, você vai praticar os seus conhecimentos em: 
 - **HTML5**;
